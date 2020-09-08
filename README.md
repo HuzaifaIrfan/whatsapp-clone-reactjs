@@ -17,7 +17,7 @@ Whatsapp web UI Clone with ReactJS and Firebase. with Google Login and firebase 
 
 ## Project Screen Shot
 
-![Final Screen Shot](/public/whatsapp-clone.png)
+![Final Screen Shot](/whatsapp-clone.png)
 
 
 
